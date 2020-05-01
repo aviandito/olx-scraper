@@ -98,6 +98,15 @@ if __name__ == "__main__":
         'search_url': 'https://www.olx.co.id/mobil-bekas_c198/q-volvo-wagon',
         'make': 'Volvo',
         'model': 'Wagon'
+    },{
+        'search_url': 'https://www.olx.co.id/mobil-bekas_c198/q-avanza',
+        'make': 'Toyota',
+        'model': 'Avanza'
+    },
+    {
+        'search_url': 'https://www.olx.co.id/mobil-bekas_c198/q-calya',
+        'make': 'Toyota',
+        'model': 'Calya'
     }]
 
     for metadata in metadata_list:
